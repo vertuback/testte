@@ -1,0 +1,22 @@
+{
+  "name": "intersport-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "playwright-core": "^1.36.1"
+  },
+  "description": ""
+}
